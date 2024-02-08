@@ -25,3 +25,10 @@ yarn-error.log*
 
 # we use yarn
 package-lock.json
+
+# folders
+.circleci
+.github
+.idea
+.storybook
+.vscode
